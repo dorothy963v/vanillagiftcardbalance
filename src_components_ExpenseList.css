@@ -1,0 +1,15 @@
+.ExpenseList {
+  margin: 20px;
+}
+
+.ExpenseList ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.ExpenseList li {
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
