@@ -1,4 +1,8 @@
-"Vanillagiftcardbalance" is a versatile web application designed to help users manage their Vanilla gift card balances effortlessly. The application offers a sleek interface to track expenditures, review balance history, and create digital receipts. Built using cutting-edge web technologies, the app is responsive and user-friendly, making it an ideal tool for personal and small business financial management. Whether you're keeping tabs on your own spending or handling gift card transactions for others, "Vanillagiftcardbalance" simplifies the process.
+## Vanillagiftcardbalance
+
+"Vanillagiftcardbalance" is a versatile web application designed to help users manage their Vanilla gift card balances effortlessly. The application offers a sleek interface to track expenditures, review balance history, and create digital receipts. Built using cutting-edge web technologies, the app is responsive and user-friendly, making it an ideal tool for personal and small business financial management. 
+
+Whether you're keeping tabs on your own spending or handling gift card transactions for others, "Vanillagiftcardbalance" simplifies the process.
 
 ## Features
 
@@ -19,9 +23,11 @@
 
 - **Name**: Joann Keys 
 - **Email**: joann654key@outlook.com  
-- **Website**: vanillagiftcardbalance
+- **Website**: [vanillagiftcardbalance](https://www.publix-passport.com)
 
-Joann Keys is a highly skilled web developer with over a decade of experience in full-stack development. Specializing in React.js and JavaScript, she has a passion for creating intuitive user interfaces and seamless web applications. Joann is known for her attention to detail, problem-solving abilities, and her willingness to mentor others in the development community.
+- Joann Keys is a highly skilled web developer with over a decade of experience in full-stack development. Specializing in React.js and JavaScript.
+- She has a passion for creating intuitive user interfaces and seamless web applications.
+- Joann is known for her attention to detail, problem-solving abilities, and her willingness to mentor others in the development community.
 
 ## Getting Started
 
@@ -29,7 +35,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/vanillagiftcardbalance.git
+   git clone https://github.com/joann654k/vanillagiftcardbalance.git
 2. **Navigate to the Project Directory**:
    ```bash
    cd vanillagiftcardbalance
@@ -39,15 +45,17 @@ To get started with the project, follow these steps:
 4. **Start the Development Server**:
    ```bash
    npm start
-   ## **Contribution Guidelines**
+
+## **Contribution Guidelines**
 We welcome contributions! To contribute:
 
-Fork the repository.
+- Fork the repository.
 - Create a new branch for your changes.
 - Follow the project's coding standards.
 - Commit your changes and push to your fork.
 - Open a pull request to the main branch.
-- Refer to the CONTRIBUTING.md file for detailed guidelines.
+
+Refer to the CONTRIBUTING.md file for detailed guidelines.
 
 ## **Getting Help**
 If you encounter any issues or have questions, feel free to open an issue or contact Joann Keys via email.
