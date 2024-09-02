@@ -19,7 +19,7 @@
 
 - **Name**: Joann Keys 
 - **Email**: joann654key@outlook.com  
-- **Website**: vanillagiftcardbalance
+- **Website**: [vanillagiftcardbalance](https://www.publix-passport.com)
 
 Joann Keys is a highly skilled web developer with over a decade of experience in full-stack development. Specializing in React.js and JavaScript, she has a passion for creating intuitive user interfaces and seamless web applications. Joann is known for her attention to detail, problem-solving abilities, and her willingness to mentor others in the development community.
 
@@ -29,7 +29,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/vanillagiftcardbalance.git
+   git clone https://github.com/dorothy963v/vanillagiftcardbalance.git
 2. **Navigate to the Project Directory**:
    ```bash
    cd vanillagiftcardbalance
@@ -39,7 +39,7 @@ To get started with the project, follow these steps:
 4. **Start the Development Server**:
    ```bash
    npm start
-   ## **Contribution Guidelines**
+## **Contribution Guidelines**
 We welcome contributions! To contribute:
 
 Fork the repository.
